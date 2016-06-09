@@ -13,25 +13,13 @@
             <id>Assignment issuesJava</id>
           </State>
           <State>
-            <id>CSS</id>
-          </State>
-          <State>
             <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Control flow issuesJavaScript</id>
           </State>
           <State>
             <id>Error handlingGroovy</id>
           </State>
           <State>
             <id>Error handlingJava</id>
-          </State>
-          <State>
-            <id>Error handlingJavaScript</id>
           </State>
           <State>
             <id>General</id>
@@ -43,12 +31,6 @@
             <id>Groovy</id>
           </State>
           <State>
-            <id>Handlebars/Mustache</id>
-          </State>
-          <State>
-            <id>J2ME Plugin</id>
-          </State>
-          <State>
             <id>J2ME issuesJava</id>
           </State>
           <State>
@@ -56,15 +38,6 @@
           </State>
           <State>
             <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Maven</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
             <id>Probable bugsGradle</id>
@@ -81,16 +54,10 @@
           <State>
             <id>Threading issuesJava</id>
           </State>
-          <State>
-            <id>WebSocket issues</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant inspections</id>
+            <id>Android</id>
           </State>
         </selected-state>
       </profile-state>
