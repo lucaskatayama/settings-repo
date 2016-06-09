@@ -501,6 +501,7 @@
         <option name="FOREGROUND" value="bc95ff" />
       </value>
     </option>
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="f7f7f7" />
