@@ -1,0 +1,6 @@
+<application>
+  <component name="CrucibleSettings">
+    <option name="SERVER_URL" value="http://192.168.0.28:8080/" />
+    <option name="USERNAME" value="admin" />
+  </component>
+</application>

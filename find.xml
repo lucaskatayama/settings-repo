@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/home/lucas/Development/git/sofist/oknok-clicktag/oknok-app/src/main/java/oknok/validacao/api/upload/UploadArquivosAPI.java'" />
+    <option name="defaultScopeName" value="File '/home/lucas/Development/git/sofist/oknok-clicktag/oknok-app/src/main/java/oknok/validacao/api/upload/UploadArquivosAPI.java'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/home/lucas/Development/git/sofist/oknok-clicktag/oknok-app/src/main/java/oknok/validacao/api/upload/UploadArquivosAPI.java'" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.properties</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
