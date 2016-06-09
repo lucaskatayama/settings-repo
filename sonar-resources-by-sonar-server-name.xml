@@ -1,0 +1,1442 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="sofist">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2699" />
+                <option name="key" value="1dt:back-end-pdg" />
+                <option name="longName" value="1dt:back-end-pdg" />
+                <option name="name" value="1dt:back-end-pdg" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2702" />
+                <option name="key" value="1dt:coletor-metricas" />
+                <option name="longName" value="1dt:coletor-metricas" />
+                <option name="name" value="1dt:coletor-metricas" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2706" />
+                <option name="key" value="1dt:desktop" />
+                <option name="longName" value="1dt:desktop" />
+                <option name="name" value="1dt:desktop" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2705" />
+                <option name="key" value="1dt:mobile" />
+                <option name="longName" value="1dt:mobile" />
+                <option name="name" value="1dt:mobile" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2704" />
+                <option name="key" value="1dt:odt-internal" />
+                <option name="longName" value="1dt:odt-internal" />
+                <option name="name" value="1dt:odt-internal" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2703" />
+                <option name="key" value="1dt:pdg-commons" />
+                <option name="longName" value="1dt:pdg-commons" />
+                <option name="name" value="1dt:pdg-commons" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2701" />
+                <option name="key" value="1dt:pdg-startup" />
+                <option name="longName" value="1dt:pdg-startup" />
+                <option name="name" value="1dt:pdg-startup" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2700" />
+                <option name="key" value="1dt:sofist-data-provider" />
+                <option name="longName" value="1dt:sofist-data-provider" />
+                <option name="name" value="1dt:sofist-data-provider" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407782677000" />
+                <option name="date" value="1427972768000" />
+                <option name="description" value="Backend do 1DT" />
+                <option name="id" value="2707" />
+                <option name="key" value="1dt:unlimited" />
+                <option name="longName" value="1dt:unlimited" />
+                <option name="name" value="1dt:unlimited" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1415885785000" />
+                <option name="date" value="1427116636000" />
+                <option name="description" value="" />
+                <option name="id" value="7716" />
+                <option name="key" value="rhae" />
+                <option name="longName" value="RHAE" />
+                <option name="name" value="RHAE" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1413731803000" />
+                <option name="date" value="1421932956000" />
+                <option name="description" value="" />
+                <option name="id" value="7567" />
+                <option name="key" value="sofist-utils" />
+                <option name="longName" value="Sofist Utils" />
+                <option name="name" value="Sofist Utils" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1408127179000" />
+                <option name="date" value="1421197663000" />
+                <option name="description" value="" />
+                <option name="id" value="3612" />
+                <option name="key" value="emonitor:avis-monitor-precos" />
+                <option name="longName" value="emonitor:avis-monitor-precos" />
+                <option name="name" value="emonitor:avis-monitor-precos" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.16-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427469614000" />
+                <option name="date" value="1427469614000" />
+                <option name="description" value="Movile Kiwi Archiver Minion" />
+                <option name="id" value="10309" />
+                <option name="key" value="kiwi:kiwi-minion-archiver" />
+                <option name="longName" value="kiwi-minion-archiver" />
+                <option name="name" value="kiwi-minion-archiver" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427469615000" />
+                <option name="date" value="1427469614000" />
+                <option name="description" value="Kiwi archiver minion executable" />
+                <option name="id" value="10310" />
+                <option name="key" value="kiwi:kiwi-minion-archiver:kiwi:kiwi-minion-archiver-application" />
+                <option name="longName" value="kiwi-minion-archiver-application" />
+                <option name="name" value="kiwi-minion-archiver-application" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427478396000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Movile Kiwi Engine Application" />
+                <option name="id" value="10349" />
+                <option name="key" value="kiwi:kiwi-minion-batch" />
+                <option name="longName" value="kiwi-minion-batch" />
+                <option name="name" value="kiwi-minion-batch" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483393000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Kiwi Minion Batch application" />
+                <option name="id" value="10352" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-core" />
+                <option name="longName" value="kiwi-minion-batch-core" />
+                <option name="name" value="kiwi-minion-batch-core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483393000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to fetch the verify a receipt" />
+                <option name="id" value="10353" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-apple-verify-receipt" />
+                <option name="longName" value="kiwi-minion-batch-job-apple-verify-receipt" />
+                <option name="name" value="kiwi-minion-batch-job-apple-verify-receipt" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to sync expired subscriptions" />
+                <option name="id" value="10354" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-copy-application-config" />
+                <option name="longName" value="kiwi-minion-batch-job-copy-application-config" />
+                <option name="name" value="kiwi-minion-batch-job-copy-application-config" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10355" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-dump-app-install-from-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-dump-app-install-from-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-dump-app-install-from-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to dump enum to postgres" />
+                <option name="id" value="10356" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-dump-enum-to-postgres" />
+                <option name="longName" value="kiwi-minion-batch-job-dump-enum-to-postgres" />
+                <option name="name" value="kiwi-minion-batch-job-dump-enum-to-postgres" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10357" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-dump-subscription-from-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-dump-subscription-from-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-dump-subscription-from-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to sync expired subscriptions" />
+                <option name="id" value="10358" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-dump-table" />
+                <option name="longName" value="kiwi-minion-batch-job-dump-table" />
+                <option name="name" value="kiwi-minion-batch-job-dump-table" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10359" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-dump-user-from-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-dump-user-from-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-dump-user-from-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10360" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-dump-user-settings-from-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-dump-user-settings-from-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-dump-user-settings-from-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Executes some pre-defined queries to ensure consistency and quality on Kiwi" />
+                <option name="id" value="10361" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-ensure-rules" />
+                <option name="longName" value="kiwi-minion-batch-job-ensure-rules" />
+                <option name="name" value="kiwi-minion-batch-job-ensure-rules" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to reprocess events from a date" />
+                <option name="id" value="10362" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-event-reprocessing" />
+                <option name="longName" value="kiwi-minion-batch-job-event-reprocessing" />
+                <option name="name" value="kiwi-minion-batch-job-event-reprocessing" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to extract the apple receipt data" />
+                <option name="id" value="10363" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-extract-apple-receipt-data" />
+                <option name="longName" value="kiwi-minion-batch-job-extract-apple-receipt-data" />
+                <option name="name" value="kiwi-minion-batch-job-extract-apple-receipt-data" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job migrate Apple subscriptions" />
+                <option name="id" value="10364" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fill-new-subscription-fields" />
+                <option name="longName" value="kiwi-minion-batch-job-fill-new-subscription-fields" />
+                <option name="name" value="kiwi-minion-batch-job-fill-new-subscription-fields" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10365" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fill-renew-period" />
+                <option name="longName" value="kiwi-minion-batch-job-fill-renew-period" />
+                <option name="name" value="kiwi-minion-batch-job-fill-renew-period" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job migrate Apple subscriptions" />
+                <option name="id" value="10366" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fill-subscription-price-information" />
+                <option name="longName" value="kiwi-minion-batch-job-fill-subscription-price-information" />
+                <option name="name" value="kiwi-minion-batch-job-fill-subscription-price-information" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job that syncs the relation between an user subscription and an app install" />
+                <option name="id" value="10367" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fill-user-subscription-app-install-id" />
+                <option name="longName" value="kiwi-minion-batch-job-fill-user-subscription-app-install-id" />
+                <option name="name" value="kiwi-minion-batch-job-fill-user-subscription-app-install-id" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to fix inconsistencies into the active_subscriptions field" />
+                <option name="id" value="10368" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-active-subscriptions-field" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-active-subscriptions-field" />
+                <option name="name" value="kiwi-minion-batch-job-fix-active-subscriptions-field" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10369" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-app-install-from-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-app-install-from-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-fix-app-install-from-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job fix missing transactions" />
+                <option name="id" value="10370" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-apple-transaction" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-apple-transaction" />
+                <option name="name" value="kiwi-minion-batch-job-fix-apple-transaction" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to fix duplicated subscriptions" />
+                <option name="id" value="10371" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-duplicated-subscriptions" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-duplicated-subscriptions" />
+                <option name="name" value="kiwi-minion-batch-job-fix-duplicated-subscriptions" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10372" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-extra-subscription-indexes-in-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-extra-subscription-indexes-in-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-fix-extra-subscription-indexes-in-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to correct values persisted with GLOBAL value as country / language, instead of null" />
+                <option name="id" value="10373" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-global-scenario-parameters" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-global-scenario-parameters" />
+                <option name="name" value="kiwi-minion-batch-job-fix-global-scenario-parameters" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job fix missing transactions" />
+                <option name="id" value="10374" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-missing-subscription-transactions" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-missing-subscription-transactions" />
+                <option name="name" value="kiwi-minion-batch-job-fix-missing-subscription-transactions" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to fix inconsistencies into the subscription table" />
+                <option name="id" value="10375" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-missing-subscriptions-postgres" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-missing-subscriptions-postgres" />
+                <option name="name" value="kiwi-minion-batch-job-fix-missing-subscriptions-postgres" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job migrate Apple subscriptions" />
+                <option name="id" value="10376" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-postponed-subscriptions" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-postponed-subscriptions" />
+                <option name="name" value="kiwi-minion-batch-job-fix-postponed-subscriptions" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to fix subscription indexes in dynamo" />
+                <option name="id" value="10377" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-subscription-indexes-in-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-subscription-indexes-in-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-fix-subscription-indexes-in-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to fix inconsistencies into the active_subscriptions field" />
+                <option name="id" value="10378" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-wrong-renew-on-trial-subscriptions" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-wrong-renew-on-trial-subscriptions" />
+                <option name="name" value="kiwi-minion-batch-job-fix-wrong-renew-on-trial-subscriptions" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10379" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-fix-wrong-subscription-indexes-in-dynamo" />
+                <option name="longName" value="kiwi-minion-batch-job-fix-wrong-subscription-indexes-in-dynamo" />
+                <option name="name" value="kiwi-minion-batch-job-fix-wrong-subscription-indexes-in-dynamo" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job migrate Apple subscriptions" />
+                <option name="id" value="10380" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-handle-invalidated-transactions" />
+                <option name="longName" value="kiwi-minion-batch-job-handle-invalidated-transactions" />
+                <option name="name" value="kiwi-minion-batch-job-handle-invalidated-transactions" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to migrate hermes subscriptions" />
+                <option name="id" value="10381" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-hermes-appInstall-migration" />
+                <option name="longName" value="kiwi-minion-batch-job-hermes-appInstall-migration" />
+                <option name="name" value="kiwi-minion-batch-job-hermes-appInstall-migration" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to migrate hermes subscriptions" />
+                <option name="id" value="10382" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-hermes-subscription-migration" />
+                <option name="longName" value="kiwi-minion-batch-job-hermes-subscription-migration" />
+                <option name="name" value="kiwi-minion-batch-job-hermes-subscription-migration" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Import Apple sales data from iTunes Connect into Kiwi" />
+                <option name="id" value="10383" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-import-apple-sales-data" />
+                <option name="longName" value="kiwi-minion-batch-job-import-apple-sales-data" />
+                <option name="name" value="kiwi-minion-batch-job-import-apple-sales-data" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="" />
+                <option name="id" value="10384" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-mediatrack-reprocessing" />
+                <option name="longName" value="kiwi-minion-batch-job-mediatrack-reprocessing" />
+                <option name="name" value="kiwi-minion-batch-job-mediatrack-reprocessing" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job Monitor Push Callback" />
+                <option name="id" value="10385" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-monitor-push-callback" />
+                <option name="longName" value="kiwi-minion-batch-job-monitor-push-callback" />
+                <option name="name" value="kiwi-minion-batch-job-monitor-push-callback" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job that finds missing app installs on PostgreSQL and sends them to a persistence queue" />
+                <option name="id" value="10386" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-persist-missing-app-installs" />
+                <option name="longName" value="kiwi-minion-batch-job-persist-missing-app-installs" />
+                <option name="name" value="kiwi-minion-batch-job-persist-missing-app-installs" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job that sends user subscriptions that are missing on PostgreSQL" />
+                <option name="id" value="10387" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-persist-missing-user-subscriptions" />
+                <option name="longName" value="kiwi-minion-batch-job-persist-missing-user-subscriptions" />
+                <option name="name" value="kiwi-minion-batch-job-persist-missing-user-subscriptions" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to fetch the verify a receipt" />
+                <option name="id" value="10388" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-populate-feedback-security-cache" />
+                <option name="longName" value="kiwi-minion-batch-job-populate-feedback-security-cache" />
+                <option name="name" value="kiwi-minion-batch-job-populate-feedback-security-cache" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="" />
+                <option name="id" value="10389" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-recover-appInstall-fields" />
+                <option name="longName" value="kiwi-minion-batch-job-recover-appInstall-fields" />
+                <option name="name" value="kiwi-minion-batch-job-recover-appInstall-fields" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recover user settings from dynamo to persistence" />
+                <option name="id" value="10390" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-recover-usersettings" />
+                <option name="longName" value="kiwi-minion-batch-job-recover-usersettings" />
+                <option name="name" value="kiwi-minion-batch-job-recover-usersettings" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to recovery hermes last open events" />
+                <option name="id" value="10391" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-recovery-hermes-open-events" />
+                <option name="longName" value="kiwi-minion-batch-job-recovery-hermes-open-events" />
+                <option name="name" value="kiwi-minion-batch-job-recovery-hermes-open-events" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="" />
+                <option name="id" value="10392" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-remove-subscriptions-from-application" />
+                <option name="longName" value="kiwi-minion-batch-job-remove-subscriptions-from-application" />
+                <option name="name" value="kiwi-minion-batch-job-remove-subscriptions-from-application" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job migrate Apple subscriptions" />
+                <option name="id" value="10393" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-subscription-migrate" />
+                <option name="longName" value="kiwi-minion-batch-job-subscription-migrate" />
+                <option name="name" value="kiwi-minion-batch-job-subscription-migrate" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to sync expired subscriptions" />
+                <option name="id" value="10394" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-subscription-sync" />
+                <option name="longName" value="kiwi-minion-batch-job-subscription-sync" />
+                <option name="name" value="kiwi-minion-batch-job-subscription-sync" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483394000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job that syncs the relation between an user subscription and an app install" />
+                <option name="id" value="10395" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-sync-subscription-app-install" />
+                <option name="longName" value="kiwi-minion-batch-job-sync-subscription-app-install" />
+                <option name="name" value="kiwi-minion-batch-job-sync-subscription-app-install" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483395000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Job to sync app installs from dynamo to postgres" />
+                <option name="id" value="10396" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-synchronize-appinstall" />
+                <option name="longName" value="kiwi-minion-batch-job-synchronize-appinstall" />
+                <option name="name" value="kiwi-minion-batch-job-synchronize-appinstall" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483395000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="Executes some pre-defined queries to ensure consistency and quality on Kiwi" />
+                <option name="id" value="10397" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-test-db-pagination" />
+                <option name="longName" value="kiwi-minion-batch-job-test-db-pagination" />
+                <option name="name" value="kiwi-minion-batch-job-test-db-pagination" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427483395000" />
+                <option name="date" value="1427713920000" />
+                <option name="description" value="" />
+                <option name="id" value="10398" />
+                <option name="key" value="kiwi:kiwi-minion-batch:kiwi:kiwi-minion-batch-job-update-active-subscriptions" />
+                <option name="longName" value="kiwi-minion-batch-job-update-active-subscriptions" />
+                <option name="name" value="kiwi-minion-batch-job-update-active-subscriptions" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427454588000" />
+                <option name="date" value="1427488739000" />
+                <option name="description" value="Movile Kiwi Persistence Minion" />
+                <option name="id" value="10120" />
+                <option name="key" value="kiwi:kiwi-minion-persistence" />
+                <option name="longName" value="kiwi-minion-persistence" />
+                <option name="name" value="kiwi-minion-persistence" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.15-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427454588000" />
+                <option name="date" value="1427488739000" />
+                <option name="description" value="Kiwi persistence minion executable" />
+                <option name="id" value="10121" />
+                <option name="key" value="kiwi:kiwi-minion-persistence:kiwi:kiwi-minion-persistence-application" />
+                <option name="longName" value="kiwi-minion-persistence-application" />
+                <option name="name" value="kiwi-minion-persistence-application" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.15-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Movile Kiwi Modules" />
+                <option name="id" value="8465" />
+                <option name="key" value="kiwi:kiwi-modules" />
+                <option name="longName" value="kiwi-modules" />
+                <option name="name" value="kiwi-modules" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Concentrate all keys used by Redis to store analytics data" />
+                <option name="id" value="8466" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-analytics-keys" />
+                <option name="longName" value="kiwi-analytics-keys" />
+                <option name="name" value="kiwi-analytics-keys" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Avro schema version controller" />
+                <option name="id" value="8467" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-avro-schema-version-controller" />
+                <option name="longName" value="kiwi-avro-schema-version-controller" />
+                <option name="name" value="kiwi-avro-schema-version-controller" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Common stuff and util" />
+                <option name="id" value="8468" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-common" />
+                <option name="longName" value="kiwi-common" />
+                <option name="name" value="kiwi-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Common objects for dynamodb daos" />
+                <option name="id" value="8469" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-dynamodb-common" />
+                <option name="longName" value="kiwi-dao-dynamodb-common" />
+                <option name="name" value="kiwi-dao-dynamodb-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="DAOS used by core module" />
+                <option name="id" value="8470" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-dynamodb-core" />
+                <option name="longName" value="kiwi-dao-dynamodb-core" />
+                <option name="name" value="kiwi-dao-dynamodb-core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Default implementation for feedback module" />
+                <option name="id" value="8471" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-dynamodb-feedback" />
+                <option name="longName" value="kiwi-dao-dynamodb-feedback" />
+                <option name="name" value="kiwi-dao-dynamodb-feedback" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Default implementation for monetization module daos" />
+                <option name="id" value="8472" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-dynamodb-monetization" />
+                <option name="longName" value="kiwi-dao-dynamodb-monetization" />
+                <option name="name" value="kiwi-dao-dynamodb-monetization" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Default implementation for plugin module" />
+                <option name="id" value="8473" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-dynamodb-plugin" />
+                <option name="longName" value="kiwi-dao-dynamodb-plugin" />
+                <option name="name" value="kiwi-dao-dynamodb-plugin" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Default implementation for user module daos" />
+                <option name="id" value="8474" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-dynamodb-user" />
+                <option name="longName" value="kiwi-dao-dynamodb-user" />
+                <option name="name" value="kiwi-dao-dynamodb-user" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Postgre DAO implementation of segment" />
+                <option name="id" value="8475" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-postgres-segment" />
+                <option name="longName" value="kiwi-dao-postgres-segment" />
+                <option name="name" value="kiwi-dao-postgres-segment" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Postgres DAO Utils" />
+                <option name="id" value="8476" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-dao-postgres-utils" />
+                <option name="longName" value="kiwi-dao-postgres-utils" />
+                <option name="name" value="kiwi-dao-postgres-utils" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Domain common classes" />
+                <option name="id" value="8477" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-domain-common" />
+                <option name="longName" value="kiwi-domain-common" />
+                <option name="name" value="kiwi-domain-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Module containing application, product, scenarios and etc configuration" />
+                <option name="id" value="8478" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-core" />
+                <option name="longName" value="kiwi-module-core" />
+                <option name="name" value="kiwi-module-core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Services to work with Event" />
+                <option name="id" value="8479" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-event" />
+                <option name="longName" value="kiwi-module-event" />
+                <option name="name" value="kiwi-module-event" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Services to work with Feedback" />
+                <option name="id" value="8480" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-feedback" />
+                <option name="longName" value="kiwi-module-feedback" />
+                <option name="name" value="kiwi-module-feedback" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Services to work with Media Track" />
+                <option name="id" value="8481" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-mediatrack" />
+                <option name="longName" value="kiwi-module-mediatrack" />
+                <option name="name" value="kiwi-module-mediatrack" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Services to work with Scenario" />
+                <option name="id" value="8482" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-monetization" />
+                <option name="longName" value="kiwi-module-monetization" />
+                <option name="name" value="kiwi-module-monetization" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Services to work with Scenario" />
+                <option name="id" value="8483" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-plugin" />
+                <option name="longName" value="kiwi-module-plugin" />
+                <option name="name" value="kiwi-module-plugin" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Services to work with Scenario" />
+                <option name="id" value="8484" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-scenario" />
+                <option name="longName" value="kiwi-module-scenario" />
+                <option name="name" value="kiwi-module-scenario" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Segment users" />
+                <option name="id" value="8485" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-segment" />
+                <option name="longName" value="kiwi-module-segment" />
+                <option name="name" value="kiwi-module-segment" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Services to work with User" />
+                <option name="id" value="8486" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-module-user" />
+                <option name="longName" value="kiwi-module-user" />
+                <option name="name" value="kiwi-module-user" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Core consumer module" />
+                <option name="id" value="8487" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-queue-consumer" />
+                <option name="longName" value="kiwi-queue-consumer" />
+                <option name="name" value="kiwi-queue-consumer" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Default implementation of consumer using aws" />
+                <option name="id" value="8488" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-queue-consumer-sqs" />
+                <option name="longName" value="kiwi-queue-consumer-sqs" />
+                <option name="name" value="kiwi-queue-consumer-sqs" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Core producer module" />
+                <option name="id" value="8489" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-queue-producer" />
+                <option name="longName" value="kiwi-queue-producer" />
+                <option name="name" value="kiwi-queue-producer" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="SQS producer module" />
+                <option name="id" value="8490" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-queue-producer-sqs" />
+                <option name="longName" value="kiwi-queue-producer-sqs" />
+                <option name="name" value="kiwi-queue-producer-sqs" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1426021367000" />
+                <option name="date" value="1427978270000" />
+                <option name="description" value="Util code that can be used in tests" />
+                <option name="id" value="8491" />
+                <option name="key" value="kiwi:kiwi-modules:kiwi:kiwi-test-utils" />
+                <option name="longName" value="kiwi-test-utils" />
+                <option name="name" value="kiwi-test-utils" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.12.30-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1408071388000" />
+                <option name="date" value="1427461444000" />
+                <option name="description" value="" />
+                <option name="id" value="3407" />
+                <option name="key" value="br.com.sofist:oknok" />
+                <option name="longName" value="oknok" />
+                <option name="name" value="oknok" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427372744000" />
+                <option name="date" value="1427914466000" />
+                <option name="description" value="" />
+                <option name="id" value="9444" />
+                <option name="key" value="oknok-clicktag" />
+                <option name="longName" value="oknok-clicktag" />
+                <option name="name" value="oknok-clicktag" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427372744000" />
+                <option name="date" value="1427914466000" />
+                <option name="description" value="" />
+                <option name="id" value="9446" />
+                <option name="key" value="oknok-administration" />
+                <option name="longName" value="oknok-administration" />
+                <option name="name" value="oknok-administration" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427372744000" />
+                <option name="date" value="1427914466000" />
+                <option name="description" value="" />
+                <option name="id" value="9447" />
+                <option name="key" value="oknok-app" />
+                <option name="longName" value="oknok-app" />
+                <option name="name" value="oknok-app" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427372744000" />
+                <option name="date" value="1427914466000" />
+                <option name="description" value="" />
+                <option name="id" value="9445" />
+                <option name="key" value="oknok-commons" />
+                <option name="longName" value="oknok-commons" />
+                <option name="name" value="oknok-commons" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1425320233000" />
+                <option name="date" value="1426272162000" />
+                <option name="description" value="" />
+                <option name="id" value="8443" />
+                <option name="key" value="oknok-validatag-worker" />
+                <option name="longName" value="oknok-validatag-worker" />
+                <option name="name" value="oknok-validatag-worker" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1413605629000" />
+                <option name="date" value="1413729994000" />
+                <option name="description" value="" />
+                <option name="id" value="7557" />
+                <option name="key" value="br.com.sofist:sofist-utils" />
+                <option name="longName" value="sofist-utils" />
+                <option name="name" value="sofist-utils" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1423168338000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="8398" />
+                <option name="key" value="br.com.sofist:synchro-captacao-pipeline" />
+                <option name="longName" value="synchro-captacao-pipeline" />
+                <option name="name" value="synchro-captacao-pipeline" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3253" />
+                <option name="key" value="br.com.sofist:consolida-boxes" />
+                <option name="longName" value="consolida-boxes" />
+                <option name="name" value="consolida-boxes" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3251" />
+                <option name="key" value="br.com.sofist:core" />
+                <option name="longName" value="core" />
+                <option name="name" value="core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3258" />
+                <option name="key" value="br.com.sofist:extrator-dispositivos" />
+                <option name="longName" value="extrator-dispositivos" />
+                <option name="name" value="extrator-dispositivos" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3256" />
+                <option name="key" value="br.com.sofist:extrator-indices" />
+                <option name="longName" value="extrator-indices" />
+                <option name="name" value="extrator-indices" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3257" />
+                <option name="key" value="br.com.sofist:extrator-normas" />
+                <option name="longName" value="extrator-normas" />
+                <option name="name" value="extrator-normas" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3255" />
+                <option name="key" value="br.com.sofist:finaliza-estruturacao-dados" />
+                <option name="longName" value="finaliza-estruturacao-dados" />
+                <option name="name" value="finaliza-estruturacao-dados" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3254" />
+                <option name="key" value="br.com.sofist:gera-box" />
+                <option name="longName" value="gera-box" />
+                <option name="name" value="gera-box" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="A JSON file consumer and inserter to mongodb." />
+                <option name="id" value="3259" />
+                <option name="key" value="br.com.sofist:json-consumer" />
+                <option name="longName" value="json-consumer" />
+                <option name="name" value="json-consumer" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1425058520000" />
+                <option name="description" value="" />
+                <option name="id" value="3252" />
+                <option name="key" value="br.com.sofist:merge-pdf-line-text" />
+                <option name="longName" value="merge-pdf-line-text" />
+                <option name="name" value="merge-pdf-line-text" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407947593000" />
+                <option name="date" value="1427904407000" />
+                <option name="description" value="" />
+                <option name="id" value="3388" />
+                <option name="key" value="synchro:synchro-captacao" />
+                <option name="longName" value="synchro:synchro-captacao" />
+                <option name="name" value="synchro:synchro-captacao" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1407937247000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="3250" />
+                <option name="key" value="synchro:synchro-captacao-pipeline" />
+                <option name="longName" value="synchro:synchro-captacao-pipeline" />
+                <option name="name" value="synchro:synchro-captacao-pipeline" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5042" />
+                <option name="key" value="synchro:consolida-boxes" />
+                <option name="longName" value="synchro:consolida-boxes" />
+                <option name="name" value="synchro:consolida-boxes" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548936000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5040" />
+                <option name="key" value="synchro:core" />
+                <option name="longName" value="synchro:core" />
+                <option name="name" value="synchro:core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5047" />
+                <option name="key" value="synchro:extrator-dispositivos" />
+                <option name="longName" value="synchro:extrator-dispositivos" />
+                <option name="name" value="synchro:extrator-dispositivos" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5045" />
+                <option name="key" value="synchro:extrator-indices" />
+                <option name="longName" value="synchro:extrator-indices" />
+                <option name="name" value="synchro:extrator-indices" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5046" />
+                <option name="key" value="synchro:extrator-normas" />
+                <option name="longName" value="synchro:extrator-normas" />
+                <option name="name" value="synchro:extrator-normas" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5044" />
+                <option name="key" value="synchro:finaliza-estruturacao-dados" />
+                <option name="longName" value="synchro:finaliza-estruturacao-dados" />
+                <option name="name" value="synchro:finaliza-estruturacao-dados" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5043" />
+                <option name="key" value="synchro:gera-box" />
+                <option name="longName" value="synchro:gera-box" />
+                <option name="name" value="synchro:gera-box" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="A JSON file consumer and inserter to mongodb." />
+                <option name="id" value="5048" />
+                <option name="key" value="synchro:json-consumer" />
+                <option name="longName" value="synchro:json-consumer" />
+                <option name="name" value="synchro:json-consumer" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1410548937000" />
+                <option name="date" value="1427896363000" />
+                <option name="description" value="" />
+                <option name="id" value="5041" />
+                <option name="key" value="synchro:merge-pdf-line-text" />
+                <option name="longName" value="synchro:merge-pdf-line-text" />
+                <option name="name" value="synchro:merge-pdf-line-text" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.31-SNAPSHOT" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
