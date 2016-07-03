@@ -7,7 +7,7 @@
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="6" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
   </component>
 </application>
